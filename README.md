@@ -1,1 +1,2 @@
 # escwa
+This repository is to share with UN-ESCWA the code that we wrote for the two projects. The repository consists of generic functions that can be used to extract CDR indicators, perform regression, calculate correlation, scrape GDELT and Twitter, and calculate English and Arabic sentiment.
